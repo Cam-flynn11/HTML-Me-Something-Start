@@ -1,1 +1,40 @@
 /* Write your CSS here! */
+
+/* must have::
+1. margin and padding to space elements
+2. use all at least once 
+    -element
+    -class
+    -id 
+*/
+body {
+    margin: 8px;
+    display: block;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+h2{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-family: cursive;
+}
+
+h3 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+#mainheading {
+    color: red;
+    font-family: cursive;
+}
+
+.funParagraph {
+    color: seagreen;
+}
+
+
